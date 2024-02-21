@@ -1,13 +1,13 @@
 <p align="center">
   <h1 align="center">
-    Cryptography Notes
+    Math Notes
   </h1>
-  <p align="center"><i>Notes from several resources on Cryptography & Zero-Knowledge Proofs.</i></p>
+  <p align="center"><i>Notes from some math lectures.</i></p>
 </p>
 
 <p align="center"> 
-    <a href="crypto.erhant.me" target="_blank">
-        <img alt="Workflow: Book Deployment" src="https://github.com/erhant/crypto-notes/actions/workflows/deploy-book.yml/badge.svg?branch=master">
+    <a href="math.erhant.me" target="_blank">
+        <img alt="Workflow: Book Deployment" src="https://github.com/erhant/math-notes/actions/workflows/deploy-book.yml/badge.svg?branch=main">
     </a>
 </p>
 
