@@ -32,6 +32,10 @@ mdbook serve --open
 mdbook build
 ```
 
+> [!TIP]
+>
+> You can also these scripts via `make`.
+
 ## Contributions
 
 Feel free to open an issue or a pull-request for any fixes or additions!
